@@ -1,5 +1,33 @@
 # 💫 About Me:
-# Hey there 👋 I'm [Your Name/Nickname]<br><br><p align="center"><br>  <img src="https://github.com/user-attachments/assets/YOUR-IMAGE-HERE" width="200" alt="profile pic"/><br></p><br><br>> "In a world of zeros… stay a 1." – trust me, I'm a hacker<br><br>### 🔐 Who I am<br>- Offensive Security Certified Professional (OSCP)  <br>- Advanced Web Attacks and Exploitation (OSWE)  <br>- 10+ years breaking (legally) and securing systems  <br>- Active bug bounty hunter (top 100 on HackerOne & Bugcrowd)  <br>- Red team operator → now mostly purple team & AppSec  <br>- Speaker at DEF CON, Black Hat Arsenal, BSides, Nullcon  <br><br>### 🛠️ Current Arsenal<br>```text<br>Languages      : Python · Go · Bash · JavaScript · C · Rust<br>Cloud          : AWS · Azure · GCP (all with attacker & defender hats)<br>Tools I love   : Burp Suite · Nuclei · ffuf · BloodHound · Covenant · Cobalt Strike · Sliver<br>Exploitation   : Metasploit · Exploit-DB · Custom payloads<br>Defense        : CrowdStrike · SentinelOne · Splunk · ELK · Wazuh
+# 👋 Hey, I'm 0xBrian
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/YOUR-IMAGE-HERE" width="200" alt="profile picture"/>
+</p>
+
+> **"In a world of zeros… stay a 1." – trust me, I'm a hacker.**
+
+---
+
+## 🔐 Who I Am  
+- Offensive Security Certified Professional (OSCP)  
+- Advanced Web Attacks and Exploitation (OSWE)  
+- 10+ years breaking (legally) and securing systems  
+- Active bug bounty hunter (Top 100 on HackerOne & Bugcrowd)  
+- Red Team Operator → now focusing on Purple Team & AppSec  
+- Speaker at DEF CON, Black Hat Arsenal, BSides, Nullcon  
+
+---
+
+## 🛠️ Arsenal
+
+```text
+Languages      : Python · Go · Bash · JavaScript · C · Rust
+Cloud          : AWS · Azure · GCP
+Tools          : Burp Suite · Nuclei · ffuf · BloodHound · Sliver · Cobalt Strike
+Exploitation   : Metasploit · Exploit-DB · Custom Payload Development
+Defense        : CrowdStrike · SentinelOne · Splunk · ELK · Wazuh
+
 
 
 ## 🌐 Socials:
