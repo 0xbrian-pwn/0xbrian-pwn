@@ -1,10 +1,6 @@
 # 💫 About Me:
 # 👋 Hey, I'm 0xBrian
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR-IMAGE-HERE" width="200" alt="profile picture"/>
-</p>
-
 > **"In a world of zeros… stay a 1." – trust me, I'm a hacker.**
 
 ---
@@ -27,7 +23,7 @@ Cloud          : AWS · Azure · GCP
 Tools          : Burp Suite · Nuclei · ffuf · BloodHound · Sliver · Cobalt Strike
 Exploitation   : Metasploit · Exploit-DB · Custom Payload Development
 Defense        : CrowdStrike · SentinelOne · Splunk · ELK · Wazuh
-
+```
 
 
 ## 🌐 Socials:
@@ -42,5 +38,3 @@ Defense        : CrowdStrike · SentinelOne · Splunk · ELK · Wazuh
 
 ---
 [![](https://visitcount.itsvg.in/api?id=0xbrian-pwn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
